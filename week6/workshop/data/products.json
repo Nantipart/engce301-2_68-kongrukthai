@@ -22,5 +22,13 @@
     "price": 19900,
     "stock": 12,
     "description": "10.9-inch iPad Air"
+  },
+  {
+    "id": 5,
+    "name": "iPad Air2",
+    "category": "Electronics",
+    "price": 29900,
+    "stock": 22,
+    "description": "12.9-inch iPad Air"
   }
 ]
