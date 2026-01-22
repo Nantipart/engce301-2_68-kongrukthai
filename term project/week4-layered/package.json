@@ -1,7 +1,7 @@
 {
-  "name": "week3-monolithic",
+  "name": "week4-monolithic",
   "version": "1.0.0",
-  "description": "Week 3 Lab - Monolithic Architecture",
+  "description": "Week 4 Lab - Layered Architecture - Monolithic Task Board Application",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
